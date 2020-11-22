@@ -81,6 +81,13 @@ strong {
 	transform: scale(1.1);
 }
 
+.btn-container {
+	padding: 10px;
+	display: flex;
+	justify-content: space-between;
+	margin-top: 30px;
+}
+
 /* Typography */
 
 h1,
